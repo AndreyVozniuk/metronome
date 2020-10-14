@@ -1,0 +1,24 @@
+.wrapper{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App{
+  background: darkseagreen;
+  padding: 50px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.App button {
+  width: 110px;
+}
+
+.App span {
+  margin-bottom: 7px;
+  font-size: 20px;
+}
