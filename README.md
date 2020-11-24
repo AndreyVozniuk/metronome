@@ -1,2 +1,2 @@
-# Metronome
-This project is written on React. Just metronome, nothing else =).
+# Metronome [React]
+Just metronome, nothing else =).
